@@ -1,6 +1,5 @@
 ## Hi there, I'm Dana
 ## About me:
-
 - 🔭 I am currently looking for any opportunity to gain experience as an Analyst
 - 🌱 Now I am studying at the Plekhanov Russian University of Economics. Faculty of Applied Mathematics and Computer Science
 
